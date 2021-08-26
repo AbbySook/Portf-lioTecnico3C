@@ -22,3 +22,6 @@ Procreate
 Ilustrator
 Krita
 Premiere
+
+Banco de Dados : https://github.com/AbbySook/Portf-lioTecnico3C/tree/main/Banco_de_dados
+
